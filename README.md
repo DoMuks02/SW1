@@ -30,24 +30,15 @@ open source SW class
 ## Syllabus
 | 주차 | 강의 내용 | 필기 파일 링크 |
 |------|-----------|----------------|
-| 1주차 | 셀 | [1주차 필기]([lecture_notes/week1.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w1.txt))
- |
-| 2주차 | 깃 | [2주차 필기]([lecture_notes/week2.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w2.txt)
-) |
-| 3주차 | 패턴 | [3주차 필기]([lecture_notes/week3.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w3.txt)
-) |
-| 4주차 | 리다이렉션 | [4주차 필기]([lecture_notes/week4.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w4.txt)
-) |
-| 5주차 | 총정리| [5주차 필기]([lecture_notes/week5.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w5.txt)
-) |
-| 6주차 | 정규 표현식 | [6주차 필기]([lecture_notes/week6.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w6.txt)
-) |
-| 7주차 | 변수 | [7주차 필기]([lecture_notes/week7.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w7.txt)
-) |
-| 8주차 | 마크다운 | [8주차 필기]([lecture_notes/week7.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w8.md)
-) |
-| 9주차 | 깃 스테이스터스 | [9주차 필기]([lecture_notes/week7.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w9.md)
-) |
+| 1주차 | 셀 | [1주차 필기]([lecture_notes/week1.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w1.txt)) |
+| 2주차 | 깃 | [2주차 필기]([lecture_notes/week2.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w2.txt))|
+| 3주차 | 패턴 | [3주차 필기]([lecture_notes/week3.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w3.txt)) |
+| 4주차 | 리다이렉션 | [4주차 필기]([lecture_notes/week4.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w4.txt)) |
+| 5주차 | 총정리| [5주차 필기]([lecture_notes/week5.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w5.txt)) |
+| 6주차 | 정규 표현식 | [6주차 필기]([lecture_notes/week6.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w6.txt)) |
+| 7주차 | 변수 | [7주차 필기]([lecture_notes/week7.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w7.txt)) |
+| 8주차 | 마크다운 | [8주차 필기]([lecture_notes/week7.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w8.md)) |
+| 9주차 | 깃 스테이스터스 | [9주차 필기]([lecture_notes/week7.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w9.md)) |
 
 ## 기타 내용
 이 레포지토리는 수업 중 필기한  자료들을 내포하고 있으며, 9번째 필기본까지 내재되어 있습다. 
