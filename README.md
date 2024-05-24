@@ -30,7 +30,8 @@ open source SW class
 ## Syllabus
 | 주차 | 강의 내용 | 필기 파일 링크 |
 |------|-----------|----------------|
-| 1주차 | 셀 | [1주차 필기]([lecture_notes/week1.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w1.txt)) |
+| 1주차 | 셀 | [1주차 필기]([lecture_notes/week1.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w1.txt)
+) |
 | 2주차 | 깃 | [2주차 필기]([lecture_notes/week2.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w2.txt)) |
 | 3주차 | 패턴 | [3주차 필기]([lecture_notes/week3.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w3.txt)) |
 | 4주차 | 리다이렉션 | [4주차 필기]([lecture_notes/week4.md](https://github.com/DoMuks02/SW1/blob/9c47b23afa3e4a4490e6ed93d79d69fb75f4c1e1/w4.txt)) |
