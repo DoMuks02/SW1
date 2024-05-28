@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # 윤년인지 아닌지
 is_leap_year() { # 윤년 leap_year
 
